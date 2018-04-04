@@ -37,7 +37,10 @@ Wordpress: 4.94
 ![](https://github.com/SMWARREN/Wordpress-Contact-List-With-Meta-Box/blob/master/screenshots/5.png)
 
 
-##Tech Stack Use
+## Tech Stack Used:
+LAMP
+CSS GRID
+JQUERY
 
 
 

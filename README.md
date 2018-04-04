@@ -1,11 +1,16 @@
-# Wordpress-Contact-List-With-Meta-Box
+# Wordpress Contact List With Meta Box
 
 ![](https://github.com/SMWARREN/Wordpress-Contact-List-With-Meta-Box/blob/master/screenshots/4.png)
 ## Archive Page
 
 A Wordpress Plugin Built with Meta Box and Love
 
+
 # Instructions
+
+## Easy Install 
+1. Install WP Migration plugin and import https://github.com/SMWARREN/Wordpress-Contact-List-With-Meta-Box/blob/master/backup/localhost-wordpress-20180404-051523-562.wpress (username: sean, password: password)
+
 1. Clone this repo.
 2. Install the zip or upload this repo to your plugins folder.
 3. Create a New Contact Post Type
